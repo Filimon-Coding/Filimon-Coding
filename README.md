@@ -3,19 +3,6 @@
 
 I am passionate about solving real-world problems through code and contributing to the open-source community. With experience in web development, algorithms, healthcare IT, Linux, and Bash scripting, I enjoy creating solutions that make a difference. My academic background and professional experience have equipped me with a strong foundation in software development and systems analysis.
 
----
-
-## ✨ My GitHub Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Filimon-Coding&theme=radical" alt="GitHub Activity Graph"/>
-</div>
-
-<div align="center">
-  <img src="path-to-skyline-gif.gif" alt="GitHub Skyline Animation" width="500"/>
-</div>
-
----
-
 ## 🚀 Skills and Tools
 - **Languages:** Java, Python, HTML, JavaScript
 - **Frameworks/Tools:** React, Git, Linux, IntelliJ
@@ -24,12 +11,16 @@ I am passionate about solving real-world problems through code and contributing 
 
 <div align="center">
   <h3>🚀 Some Tools I Have Used and Learned</h3>
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VersionControl-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
 </div>
 
 ---
@@ -62,10 +53,6 @@ I am passionate about solving real-world problems through code and contributing 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Fun" width="400"/>
 </div>
 
@@ -85,15 +72,8 @@ I am passionate about solving real-world problems through code and contributing 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Filimon-Coding?style=social" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=Filimon-Coding&color=green" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/contributions/Filimon-Coding/first-contributions" alt="Contributions"/>
-  <img src="https://img.shields.io/github/commit-activity/d/Filimon-Coding/first-contributions" alt="Daily Commits"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Achievement Badge" width="200"/>
-</div>
-
----
 
 ## 🌐 About My Studies
 Currently pursuing a Bachelor's degree in Information Technology at OsloMet - Storbyuniversitetet. My coursework includes:
