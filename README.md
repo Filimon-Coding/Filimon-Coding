@@ -3,9 +3,15 @@
 
 I am passionate about solving real-world problems through code and contributing to the open-source community. With experience in web development, algorithms, healthcare IT, Linux, and Bash scripting, I enjoy creating solutions that make a difference. My academic background and professional experience have equipped me with a strong foundation in software development and systems analysis.
 
+---
+
+## ✨ My GitHub Activity
 <div align="center">
-  <h3>✨ My GitHub Activity ✨</h3>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Filimon-Coding&theme=radical" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="path-to-skyline-gif.gif" alt="GitHub Skyline Animation" width="500"/>
 </div>
 
 ---
