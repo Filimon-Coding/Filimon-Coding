@@ -1,19 +1,20 @@
 # Hi there, I'm Filimon Nuguse! 👋  
 🎓 IT Student | 💻 Open Source Enthusiast | 🌍 Based in Oslo, Norway
 
-I am passionate about solving real-world problems through code and contributing to the open-source community. With experience in web development, algorithms, healthcare IT, and Linux, I enjoy creating solutions that make a difference.
+I am passionate about solving real-world problems through code and contributing to the open-source community. With experience in web development, algorithms, healthcare IT, Linux, and Bash scripting, I enjoy creating solutions that make a difference. My academic background and professional experience have equipped me with a strong foundation in software development and systems analysis.
 
 ---
 
 ## 🚀 Skills and Tools
 - **Languages:** Java, Python, HTML, JavaScript
 - **Frameworks/Tools:** React, Git, Linux, IntelliJ
-- **Focus Areas:** Algorithms, Web Development, Healthcare IT, Bash Scripting, Shell Scripting
+- **Focus Areas:** Algorithms, Data Structures, Web Development, Healthcare IT, Bash Scripting, Shell Scripting, System Administration
+- **Soft Skills:** Team collaboration, critical thinking, and effective communication
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
@@ -27,6 +28,15 @@ I am passionate about solving real-world problems through code and contributing 
   
 - **[LinuxTestingGround](https://github.com/Filimon-Coding/LinuxTestingGround):**  
   Experimented with cross-browser compatibility, advanced CSS, and Linux scripting.
+  
+- **[StudentTracker](https://github.com/Filimon-Coding/StudentTracker):**  
+  A comprehensive system for managing student data, tracking progress, and generating academic reports.
+
+- **[ShellScripts](https://github.com/Filimon-Coding/ShellScripts):**  
+  A collection of scripts to automate tasks, improve system management, and simplify Linux workflows.
+  
+- **[AlgoDataMin](https://github.com/Filimon-Coding/AlgoDataMin):**  
+  Algorithms and data structures repository to practice problem-solving and explore optimization techniques.
 
 ---
 
@@ -44,6 +54,10 @@ I am passionate about solving real-world problems through code and contributing 
 ---
 
 ## 🏆 Achievements
+- **Academic Excellence:** Graduated with honors in courses related to programming, data structures, and algorithms.
+- **Professional Development:** Worked on OD-dagen, raising funds for underprivileged communities and showcasing organizational skills.
+- **Leadership:** Actively participated in group projects and collaborated with peers to deliver successful outcomes.
+
 ![GitHub followers](https://img.shields.io/github/followers/Filimon-Coding?style=social)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Filimon-Coding&color=green)
 
@@ -57,4 +71,4 @@ Currently pursuing a Bachelor's degree in Information Technology at OsloMet - St
 - **Web Development:** Focus on accessibility and responsive design using HTML, CSS, and JavaScript.
 - **Human-Computer Interaction:** Designing user-centered interfaces.
 
-Learn more about my program: [OsloMet - Information Technology](https://www.oslomet.no/studier/tkd/informasjonsteknologi)
+I have also gained practical experience through hands-on projects and professional contributions. Learn more about my program: [OsloMet - Information Technology](https://www.oslomet.no/studier/tkd/informasjonsteknologi)
