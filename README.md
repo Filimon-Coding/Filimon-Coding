@@ -48,7 +48,7 @@ I am passionate about solving real-world problems through code and contributing 
 ---
 
 ## 📧 Contact Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/filimon-nuguse-kaleab-089b62258/)
+- **LinkedIn:** [Filimon Nuguse](https://www.linkedin.com/in/filimon-nuguse-kaleab-089b62258/)
 - **Email:** filimon.nuguse20@gmail.com
 
 ---
