@@ -11,11 +11,11 @@ I am passionate about solving real-world problems through code and contributing 
 - **Focus Areas:** Algorithms, Data Structures, Web Development, Healthcare IT, Bash Scripting, Shell Scripting, System Administration
 - **Soft Skills:** Team collaboration, critical thinking, and effective communication
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coding Animation" width="400"/>
+</div>
 
 ---
 
@@ -45,6 +45,10 @@ I am passionate about solving real-world problems through code and contributing 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filimon-Coding&layout=compact&theme=radical)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Fun" width="400"/>
+</div>
+
 ---
 
 ## 📧 Contact Me
@@ -60,6 +64,10 @@ I am passionate about solving real-world problems through code and contributing 
 
 ![GitHub followers](https://img.shields.io/github/followers/Filimon-Coding?style=social)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Filimon-Coding&color=green)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Achievement Badge" width="200"/>
+</div>
 
 ---
 
