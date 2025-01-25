@@ -4,7 +4,7 @@
 I am passionate about solving real-world problems through code and contributing to the open-source community. With experience in web development, algorithms, healthcare IT, Linux, and Bash scripting, I enjoy creating solutions that make a difference. My academic background and professional experience have equipped me with a strong foundation in software development and systems analysis.
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*D_gkcGSi6tO4o_dKVHcRow.gif" alt="Welcome Animation" width="500"/>
+  ![Snake Animation](https://github.com/Filimon-Coding/Filimon-Coding/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
