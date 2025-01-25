@@ -1,6 +1,8 @@
 # Hi there, I'm Filimon Nuguse! 👋  
 🎓 IT Student | 💻 Open Source Enthusiast | 🌍 Based in Oslo, Norway
-
+<div align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer)
+</div>
 I am passionate about solving real-world problems through code and contributing to the open-source community. With experience in web development, algorithms, healthcare IT, Linux, and Bash scripting, I enjoy creating solutions that make a difference. My academic background and professional experience have equipped me with a strong foundation in software development and systems analysis.
 
 ## 🚀 Skills and Tools
