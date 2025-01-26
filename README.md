@@ -71,7 +71,6 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Fun" width="400"/>
 </div>
-
 ---
 
 ## 📧 Contact Me
@@ -88,8 +87,6 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 <div align="center">
   <img src="https://img.shields.io/github/followers/Filimon-Coding?style=social" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=Filimon-Coding&color=green" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/contributions/Filimon-Coding/first-contributions" alt="Contributions"/>
-  <img src="https://img.shields.io/github/commit-activity/d/Filimon-Coding/first-contributions" alt="Daily Commits"/>
 </div>
 ---
 
