@@ -33,6 +33,9 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 ## 🌟 Featured Projects
 - **[AlgoDataMin](https://github.com/Filimon-Coding/AlgoDataMin):**  
   Algorithms and data structures repository to practice problem-solving and explore optimization techniques.
+
+  - **[Exam Project: Responsive Frontend Design](https://github.com/Filimon-Coding/exam-project-frontend):**  
+  Collaborative exam project focusing on creating a responsive and accessible frontend design using HTML, CSS, and JavaScript. Showcases scalable layouts and cross-browser compatibility.
   
 - **[StudentTracker](https://github.com/Filimon-Coding/StudentTracker):**  
   A comprehensive system for managing student data, tracking progress, and generating academic reports.
@@ -40,11 +43,9 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 - **[ShellScripts](https://github.com/Filimon-Coding/ShellScripts):**  
   A collection of scripts to automate tasks, improve system management, and simplify Linux workflows.
   
+
 - **[First Contributions](https://github.com/Filimon-Coding/first-contributions):**  
   Onboarded new developers by enhancing the tutorial for contributing to open source.
-  
-- **[DATA1200code](https://github.com/Filimon-Coding/DATA1200code):**  
-  Web development project showcasing responsive and accessible design.
   
 - **[LinuxTestingGround](https://github.com/Filimon-Coding/LinuxTestingGround):**  
   Experimented with cross-browser compatibility, advanced CSS, and Linux scripting.
