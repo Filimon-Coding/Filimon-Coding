@@ -6,15 +6,10 @@ I am passionate about solving real-world problems through code and contributing 
 Additionally, my studies in **Bioengineering** have provided me with unique insights into data analysis, biological systems, and interdisciplinary problem-solving. This background enhances my ability to contribute to projects at the intersection of technology and healthcare, such as data-driven diagnostics, algorithm development for medical applications, and innovative healthcare IT solutions.
 
 ---
-
-## ✨ Welcome Animation
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder Typing" width="300"/>
-</div>
 
 
 ## 🚀 Skills and Tools
