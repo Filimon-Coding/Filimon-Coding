@@ -30,25 +30,24 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 ---
 
 ## 🌟 Featured Projects
-- **[AlgoDataMin](https://github.com/Filimon-Coding/AlgoDataMin):**  
-  Algorithms and data structures repository to practice problem-solving and explore optimization techniques.
 
-- **[Exam Project: Responsive Frontend Design](https://github.com/Filimon-Coding/exam-project-frontend):**  
-  Collaborative exam project focusing on creating a responsive and accessible frontend design using HTML, CSS, and JavaScript. Showcases scalable layouts and cross-browser compatibility.
-  
-- **[StudentTracker](https://github.com/Filimon-Coding/StudentTracker):**  
-  A comprehensive system for managing student data, tracking progress, and generating academic reports.
+- **[Algorithmic Data Structures Practice](https://github.com/Filimon-Coding/AlgoDataMin):**  
+  A comprehensive repository dedicated to practicing and optimizing algorithms and data structures. This collection is designed to enhance problem-solving skills and explore various optimization techniques.
 
-- **[ShellScripts](https://github.com/Filimon-Coding/ShellScripts):**  
-  A collection of scripts to automate tasks, improve system management, and simplify Linux workflows.
-  
+- **[Responsive Frontend Exam Project](https://github.com/Filimon-Coding/exam-project-frontend):**  
+  A collaborative exam project focused on developing a responsive and accessible frontend using **HTML**, **CSS**, and **JavaScript**. The project emphasizes scalable layouts and ensures cross-browser compatibility.
 
-- **[First Contributions](https://github.com/Filimon-Coding/first-contributions):**  
-  Onboarded new developers by enhancing the tutorial for contributing to open source.
-  
-- **[LinuxTestingGround](https://github.com/Filimon-Coding/LinuxTestingGround):**  
-  Experimented with cross-browser compatibility, advanced CSS, and Linux scripting.
+- **[Student Management System](https://github.com/Filimon-Coding/StudentTracker):**  
+  A robust system designed for managing student data, tracking academic progress, and generating detailed reports. This application streamlines educational administration through efficient data handling.
+
+- **[Automation Scripts Collection](https://github.com/Filimon-Coding/ShellScripts):**  
+  A curated set of scripts aimed at automating various tasks, improving system management, and simplifying workflows within Linux environments.
+
+- **[First Contributions Enhancement](https://github.com/Filimon-Coding/first-contributions):**  
+  Contributed to onboarding new developers by enhancing tutorials and simplifying the process of making initial contributions to open-source projects.
+
 ---
+
 
 ## 📊 GitHub Stats
 <div align="center">
