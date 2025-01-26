@@ -7,6 +7,13 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 
 ---
 
+## 🌟 GitHub Contributions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Filimon-Coding&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Filimon-Coding&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+</div>
+---
+
 
 ## 🚀 Skills and Tools
 - **Languages:** Java, Python, HTML, JavaScript
