@@ -4,12 +4,7 @@
 I am passionate about solving real-world problems through code and contributing to the open-source community. With experience in web development, algorithms, healthcare IT, Linux, and Bash scripting, I enjoy creating solutions that make a difference. My academic background and professional experience have equipped me with a strong foundation in software development and systems analysis.
 
 Additionally, my studies in **Bioengineering** have provided me with unique insights into data analysis, biological systems, and interdisciplinary problem-solving. This background enhances my ability to contribute to projects at the intersection of technology and healthcare, such as data-driven diagnostics, algorithm development for medical applications, and innovative healthcare IT solutions.
-
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-</div>
-
 
 
 ## 🚀 Skills and Tools
@@ -70,7 +65,7 @@ Additionally, my studies in **Bioengineering** have provided me with unique insi
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=WWelcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
 </div>
 
 <div align="center">
