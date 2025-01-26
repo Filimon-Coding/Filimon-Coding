@@ -1,9 +1,10 @@
 # Hi there, I'm Filimon Nuguse! 👋  
-🎓 IT Student | 💻 Open Source Enthusiast | 🌍 Based in Oslo, Norway
+🎓 **IT Student** | 💻 **Open Source Enthusiast** | 🌍 **Based in Oslo, Norway**
 
-I am passionate about solving real-world problems through code and contributing to the open-source community. With experience in web development, algorithms, healthcare IT, Linux, and Bash scripting, I enjoy creating solutions that make a difference. My academic background and professional experience have equipped me with a strong foundation in software development and systems analysis.
+I am driven by a passion for solving real-world problems through technology and contributing to the open-source community. With experience in **web development**, **algorithms**, **healthcare IT**, **Linux**, and **Bash scripting**, I aim to create impactful solutions that truly make a difference. My academic background, combined with hands-on experience, has provided me with a solid foundation in **software development** and **systems analysis**.
 
-Additionally, my studies in **Bioengineering** have provided me with unique insights into data analysis, biological systems, and interdisciplinary problem-solving. This background enhances my ability to contribute to projects at the intersection of technology and healthcare, such as data-driven diagnostics, algorithm development for medical applications, and innovative healthcare IT solutions.
+Furthermore, my studies in **Bioengineering** have equipped me with unique interdisciplinary skills, such as analyzing biological data and understanding complex systems. This expertise enables me to excel in projects at the intersection of **technology and healthcare**, including **data-driven diagnostics**, **medical algorithm development**, and **innovative healthcare IT solutions**.
+
 ---
 
 
