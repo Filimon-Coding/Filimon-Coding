@@ -48,8 +48,20 @@ I am passionate about solving real-world problems through code and contributing 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Filimon-Coding&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filimon-Coding&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Filimon-Coding&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filimon-Coding&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
 </div>
 
 <div align="center">
