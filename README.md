@@ -7,16 +7,15 @@ Additionally, my studies in **Bioengineering** have provided me with unique insi
 
 ---
 
-## ✨ My GitHub Activity
+## ✨ Welcome Animation
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Filimon-Coding&theme=radical" alt="GitHub Activity Graph"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
 </div>
 
 <div align="center">
-  <img src="path-to-skyline-gif.gif" alt="GitHub Skyline Animation" width="500"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder Typing" width="300"/>
 </div>
 
----
 
 ## 🚀 Skills and Tools
 - **Languages:** Java, Python, HTML, JavaScript
