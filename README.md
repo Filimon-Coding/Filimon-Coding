@@ -61,7 +61,7 @@ I am passionate about solving real-world problems through code and contributing 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines= Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
 </div>
 
 <div align="center">
