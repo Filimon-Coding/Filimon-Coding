@@ -31,15 +31,7 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 ---
 
 ## 🌟 Featured Projects
-- **[First Contributions](https://github.com/Filimon-Coding/first-contributions):**  
-  Onboarded new developers by enhancing the tutorial for contributing to open source.
-  
-- **[DATA1200code](https://github.com/Filimon-Coding/DATA1200code):**  
-  Web development project showcasing responsive and accessible design.
-  
-- **[LinuxTestingGround](https://github.com/Filimon-Coding/LinuxTestingGround):**  
-  Experimented with cross-browser compatibility, advanced CSS, and Linux scripting.
-  
+
 - **[StudentTracker](https://github.com/Filimon-Coding/StudentTracker):**  
   A comprehensive system for managing student data, tracking progress, and generating academic reports.
 
@@ -48,7 +40,15 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
   
 - **[AlgoDataMin](https://github.com/Filimon-Coding/AlgoDataMin):**  
   Algorithms and data structures repository to practice problem-solving and explore optimization techniques.
-
+  
+- **[First Contributions](https://github.com/Filimon-Coding/first-contributions):**  
+  Onboarded new developers by enhancing the tutorial for contributing to open source.
+  
+- **[DATA1200code](https://github.com/Filimon-Coding/DATA1200code):**  
+  Web development project showcasing responsive and accessible design.
+  
+- **[LinuxTestingGround](https://github.com/Filimon-Coding/LinuxTestingGround):**  
+  Experimented with cross-browser compatibility, advanced CSS, and Linux scripting.
 ---
 
 ## 📊 GitHub Stats
