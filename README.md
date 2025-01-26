@@ -34,7 +34,7 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 - **[AlgoDataMin](https://github.com/Filimon-Coding/AlgoDataMin):**  
   Algorithms and data structures repository to practice problem-solving and explore optimization techniques.
 
-  - **[Exam Project: Responsive Frontend Design](https://github.com/Filimon-Coding/exam-project-frontend):**  
+- **[Exam Project: Responsive Frontend Design](https://github.com/Filimon-Coding/exam-project-frontend):**  
   Collaborative exam project focusing on creating a responsive and accessible frontend design using HTML, CSS, and JavaScript. Showcases scalable layouts and cross-browser compatibility.
   
 - **[StudentTracker](https://github.com/Filimon-Coding/StudentTracker):**  
