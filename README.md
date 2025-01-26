@@ -3,6 +3,21 @@
 
 I am passionate about solving real-world problems through code and contributing to the open-source community. With experience in web development, algorithms, healthcare IT, Linux, and Bash scripting, I enjoy creating solutions that make a difference. My academic background and professional experience have equipped me with a strong foundation in software development and systems analysis.
 
+Additionally, my studies in **Bioengineering** have provided me with unique insights into data analysis, biological systems, and interdisciplinary problem-solving. This background enhances my ability to contribute to projects at the intersection of technology and healthcare, such as data-driven diagnostics, algorithm development for medical applications, and innovative healthcare IT solutions.
+
+---
+
+## ✨ My GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Filimon-Coding&theme=radical" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="path-to-skyline-gif.gif" alt="GitHub Skyline Animation" width="500"/>
+</div>
+
+---
+
 ## 🚀 Skills and Tools
 - **Languages:** Java, Python, HTML, JavaScript
 - **Frameworks/Tools:** React, Git, Linux, IntelliJ
@@ -61,7 +76,7 @@ I am passionate about solving real-world problems through code and contributing 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=WWelcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -84,8 +99,15 @@ I am passionate about solving real-world problems through code and contributing 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Filimon-Coding?style=social" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=Filimon-Coding&color=green" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/contributions/Filimon-Coding/first-contributions" alt="Contributions"/>
+  <img src="https://img.shields.io/github/commit-activity/d/Filimon-Coding/first-contributions" alt="Daily Commits"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Achievement Badge" width="200"/>
+</div>
+
+---
 
 ## 🌐 About My Studies
 Currently pursuing a Bachelor's degree in Information Technology at OsloMet - Storbyuniversitetet. My coursework includes:
@@ -94,5 +116,6 @@ Currently pursuing a Bachelor's degree in Information Technology at OsloMet - St
 - **Linux Operating Systems:** Practical experience with Linux environments, system commands, and Bash scripting.
 - **Web Development:** Focus on accessibility and responsive design using HTML, CSS, and JavaScript.
 - **Human-Computer Interaction:** Designing user-centered interfaces.
+- **Bioengineering Applications:** Leveraging insights into biological data and systems to drive innovation in healthcare IT and interdisciplinary solutions.
 
 I have also gained practical experience through hands-on projects and professional contributions. Learn more about my program: [OsloMet - Information Technology](https://www.oslomet.no/studier/tkd/informasjonsteknologi)
