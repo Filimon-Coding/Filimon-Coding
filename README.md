@@ -31,15 +31,14 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 ---
 
 ## 🌟 Featured Projects
-
+- **[AlgoDataMin](https://github.com/Filimon-Coding/AlgoDataMin):**  
+  Algorithms and data structures repository to practice problem-solving and explore optimization techniques.
+  
 - **[StudentTracker](https://github.com/Filimon-Coding/StudentTracker):**  
   A comprehensive system for managing student data, tracking progress, and generating academic reports.
 
 - **[ShellScripts](https://github.com/Filimon-Coding/ShellScripts):**  
   A collection of scripts to automate tasks, improve system management, and simplify Linux workflows.
-  
-- **[AlgoDataMin](https://github.com/Filimon-Coding/AlgoDataMin):**  
-  Algorithms and data structures repository to practice problem-solving and explore optimization techniques.
   
 - **[First Contributions](https://github.com/Filimon-Coding/first-contributions):**  
   Onboarded new developers by enhancing the tutorial for contributing to open source.
