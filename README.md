@@ -88,7 +88,6 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
   <img src="https://img.shields.io/github/followers/Filimon-Coding?style=social" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=Filimon-Coding&color=green" alt="Profile Views"/>
 </div>
----
 
 ## 🌐 About My Studies
 Currently pursuing a Bachelor's degree in Information Technology at OsloMet - Storbyuniversitetet. My coursework includes:
