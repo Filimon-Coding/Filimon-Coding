@@ -91,11 +91,6 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
   <img src="https://img.shields.io/github/contributions/Filimon-Coding/first-contributions" alt="Contributions"/>
   <img src="https://img.shields.io/github/commit-activity/d/Filimon-Coding/first-contributions" alt="Daily Commits"/>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Achievement Badge" width="200"/>
-</div>
-
 ---
 
 ## 🌐 About My Studies
