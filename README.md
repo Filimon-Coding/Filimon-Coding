@@ -34,7 +34,7 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 - **[Algorithmic Data Structures Practice](https://github.com/Filimon-Coding/AlgoDataMin):**  
   A comprehensive repository dedicated to practicing and optimizing algorithms and data structures. This collection is designed to enhance problem-solving skills and explore various optimization techniques.
 
-- **[Responsive Frontend Exam Project](https://github.com/Filimon-Coding/WizardryWeb-Enchanting-Forms-with-MagiScript):**  
+- **[Responsive Frontend WizardWeb Project](https://github.com/Filimon-Coding/WizardryWeb-Enchanting-Forms-with-MagiScript):**  
   Web project focused on developing a responsive and accessible frontend using **HTML**, **CSS**, and **JavaScript**. The project emphasizes scalable layouts and ensures cross-browser compatibility.
 
 - **[Student Management System](https://github.com/Filimon-Coding/StudentTracker):**  
