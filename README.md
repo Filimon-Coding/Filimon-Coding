@@ -9,7 +9,7 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 
 ## 🚀 Skills and Tools
 - **Languages:** Java, Python, HTML, JavaScript
-- **Frameworks/Tools:** React, Git, Linux, IntelliJ
+- **Frameworks/Tools:** Git, Linux, IntelliJ
 - **Focus Areas:** Algorithms, Data Structures, Web Development, Healthcare IT, Bash Scripting, Shell Scripting, System Administration
 - **Soft Skills:** Team collaboration, critical thinking, and effective communication
 
