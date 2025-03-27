@@ -1,4 +1,4 @@
-# Hi there, I'm Filimon Nuguse! 👋  
+# Hi there, I'm Filimon Nuguse! 👋   
 🎓 **IT Student** |🎓 **Biomedical Engineer** |  💻 **Open Source Enthusiast** | 🌍 **Based in Oslo, Norway**
 
 I am driven by a passion for solving real-world problems through technology and contributing to the open-source community. With experience in **web development**, **algorithms**, **healthcare IT**, **Linux**, and **Bash scripting**, I aim to create impactful solutions that truly make a difference. My academic background, combined with hands-on experience, has provided me with a solid foundation in **software development** and **systems analysis**.
