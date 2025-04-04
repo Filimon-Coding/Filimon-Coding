@@ -7,7 +7,7 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 
 ---
 
-## 🚀 Skills and Tools
+## 🚀 Skills and Tools. 
 - **Languages:** Java, Python, HTML, JavaScript
 - **Frameworks/Tools:** Git, Linux, IntelliJ
 - **Focus Areas:** Algorithms, Data Structures, Web Development, Healthcare IT, Bash Scripting, Shell Scripting, System Administration
