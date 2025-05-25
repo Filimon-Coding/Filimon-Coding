@@ -21,14 +21,6 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=WWelcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Fun" width="400"/>
-</div>
 ---
 
 ---
@@ -73,22 +65,6 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
   Contributed to onboarding new developers by enhancing tutorials and simplifying the process of making initial contributions to open-source projects.
 
 ---
-
-
-## 📊 GitHub Stats
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Filimon-Coding&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filimon-Coding&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=WWelcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
 </div>
