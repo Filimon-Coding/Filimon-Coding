@@ -6,6 +6,31 @@
 I am driven by a passion for solving real-world problems through technology and contributing to the open-source community. With experience in **web development**, **algorithms**, **healthcare IT**, **Linux**, and **Bash scripting**, I aim to create impactful solutions that truly make a difference. My academic background, combined with hands-on experience, has provided me with a solid foundation in **software development** and **systems analysis**.
 
 Furthermore, my studies in **Bioengineering** have equipped me with unique interdisciplinary skills, such as analyzing biological data and understanding complex systems. This expertise enables me to excel in projects at the intersection of **technology and healthcare**, including **data-driven diagnostics**, **medical algorithm development**, and **innovative healthcare IT solutions**.
+---
+
+
+## 📊 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Filimon-Coding&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filimon-Coding&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=WWelcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Fun" width="400"/>
+</div>
+---
 
 ---
 
