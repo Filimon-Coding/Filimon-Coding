@@ -6,9 +6,8 @@
 I am driven by a passion for solving real-world problems through technology and contributing to the open-source community. With experience in **web development**, **algorithms**, **healthcare IT**, **Linux**, and **Bash scripting**, I aim to create impactful solutions that truly make a difference. My academic background, combined with hands-on experience, has provided me with a solid foundation in **software development** and **systems analysis**.
 
 Furthermore, my studies in **Bioengineering** have equipped me with unique interdisciplinary skills, such as analyzing biological data and understanding complex systems. This expertise enables me to excel in projects at the intersection of **technology and healthcare**, including **data-driven diagnostics**, **medical algorithm development**, and **innovative healthcare IT solutions**.
+
 ---
-
-
 ## 📊 GitHub Stats
 <div align="center">
   <table>
