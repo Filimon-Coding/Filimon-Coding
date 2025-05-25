@@ -28,11 +28,6 @@
 ---
 ## 🚀 Skills and Tools
 
-* **Languages:** Java, Python, HTML, JavaScript
-* **Frameworks/Tools:** Git, Linux, IntelliJ, Spring Boot
-* **Focus Areas:** Algorithms, Web Dev, Healthcare IT, Bash/Shell, System Admin
-* **Soft Skills:** Teamwork, critical thinking, communication
-
 <div align="center">
   <h3>🛠 Tools I've Used</h3>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
