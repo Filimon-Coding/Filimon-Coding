@@ -9,9 +9,6 @@
 * Interested in tech-health solutions like medical data analysis and diagnostics
 
 ---
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
