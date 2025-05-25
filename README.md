@@ -49,14 +49,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
 </div>
 ---
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Fun" width="400"/>
-</div>
----
 ## 📧 Contact Me
 
 * **LinkedIn:** [Filimon Nuguse](https://www.linkedin.com/in/filimon-nuguse-kaleab-089b62258/)
