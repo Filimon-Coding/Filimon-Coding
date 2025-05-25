@@ -41,6 +41,9 @@
   <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
 </div>
+
+---
+
 ## 📧 Contact Me
 * **LinkedIn:** [Filimon Nuguse](https://www.linkedin.com/in/filimon-nuguse-kaleab-089b62258/)
 * **Email:** [filimon.nuguse20@gmail.com](mailto:filimon.nuguse20@gmail.com)
