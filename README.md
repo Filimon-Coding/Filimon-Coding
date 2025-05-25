@@ -28,7 +28,6 @@
 </div>
 
 ---
-
 ## 🚀 Skills and Tools
 
 * **Languages:** Java, Python, HTML, JavaScript
@@ -49,9 +48,7 @@
   <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
 </div>
-
 ---
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Open+Source+Contributor;IT+Student+%7C+Web+Developer" alt="Typing SVG"/>
 </div>
@@ -59,21 +56,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Fun" width="400"/>
 </div>
-
 ---
-
 ## 📧 Contact Me
 
 * **LinkedIn:** [Filimon Nuguse](https://www.linkedin.com/in/filimon-nuguse-kaleab-089b62258/)
 * **Email:** [filimon.nuguse20@gmail.com](mailto:filimon.nuguse20@gmail.com)
 
 ---
-
-## 🏆 Achievements
-
-* Graduated with honors in programming and algorithm-related courses
-* Contributed to OD-dagen fundraiser and community outreach
-* Active in team projects and collaborative problem solving
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Filimon-Coding?style=social" alt="GitHub Followers"/>
