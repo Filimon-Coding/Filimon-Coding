@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Filimon Nuguse! 👋
 
 🎓 IT Student | 🎓 Biomedical Engineer | 💻 Open Source Fan | 🌍 Oslo, Norway
@@ -51,6 +49,7 @@
 ## 📧 Contact Me
 * **LinkedIn:** [Filimon Nuguse](https://www.linkedin.com/in/filimon-nuguse-kaleab-089b62258/)
 * **Email:** [filimon.nuguse20@gmail.com](mailto:filimon.nuguse20@gmail.com)
+
 <div align="center">
   <img src="https://img.shields.io/github/followers/Filimon-Coding?style=social" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=Filimon-Coding&color=green" alt="Profile Views"/>
