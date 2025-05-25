@@ -1,10 +1,16 @@
-# Hi there, I'm Filimon Nuguse! 👋   
-🎓 **IT Student** |🎓 **Biomedical Engineer** |  💻 **Open Source Enthusiast** | 🌍 **Based in Oslo, Norway**
+Hi there, I'm Filimon Nuguse! 👋
 
-I am driven by a passion for solving real-world problems through technology and contributing to the open-source community. With experience in **web development**, **algorithms**, **healthcare IT**, **Linux**, and **Bash scripting**, I aim to create impactful solutions that truly make a difference. My academic background, combined with hands-on experience, has provided me with a solid foundation in **software development** and **systems analysis**.
+🎓 IT Student | 🎓 Biomedical Engineer | 💻 Open Source Fan | 🌍 Oslo, Norway
 
-Furthermore, my studies in **Bioengineering** have equipped me with unique interdisciplinary skills, such as analyzing biological data and understanding complex systems. This expertise enables me to excel in projects at the intersection of **technology and healthcare**, including **data-driven diagnostics**, **medical algorithm development**, and **innovative healthcare IT solutions**.
+    Passion for tech that solves real-world problems
 
+    Focus on web dev, algorithms, Linux, and healthcare IT
+
+    Contributing to open source and learning daily
+
+    Background in both IT and bioengineering
+
+    Interested in tech-health solutions like medical data analysis and diagnostics
 ---
 ## 📊 GitHub Stats
 <div align="center">
@@ -42,24 +48,6 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/>
 </div>
 
----
-
-## 🌟 Featured Projects
-
-- **[Algorithmic Data Structures Practice](https://github.com/Filimon-Coding/AlgoDataMin):**  
-  A comprehensive repository dedicated to practicing and optimizing algorithms and data structures. This collection is designed to enhance problem-solving skills and explore various optimization techniques.
-
-- **[Responsive Frontend WizardWeb Project](https://github.com/Filimon-Coding/WizardryWeb-Enchanting-Forms-with-MagiScript):**  
-  Web project focused on developing a responsive and accessible frontend using **HTML**, **CSS**, and **JavaScript**. The project emphasizes scalable layouts and ensures cross-browser compatibility.
-
-- **[Student Management System](https://github.com/Filimon-Coding/StudentTracker):**  
-  A robust system designed for managing student data, tracking academic progress, and generating detailed reports. This application streamlines educational administration through efficient data handling.
-
-- **[Automation Scripts Collection](https://github.com/Filimon-Coding/ShellScripts):**  
-  A curated set of scripts aimed at automating various tasks, improving system management, and simplifying workflows within Linux environments.
-
-- **[First Contributions Enhancement](https://github.com/Filimon-Coding/first-contributions):**  
-  Contributed to onboarding new developers by enhancing tutorials and simplifying the process of making initial contributions to open-source projects.
 
 ---
 <div align="center">
@@ -87,13 +75,3 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
   <img src="https://komarev.com/ghpvc/?username=Filimon-Coding&color=green" alt="Profile Views"/>
 </div>
 
-## 🌐 About My Studies
-Currently pursuing a Bachelor's degree in Information Technology at OsloMet - Storbyuniversitetet. My coursework includes:
-- **Programming and Algorithms:** Advanced knowledge in Java, Python, and algorithm design.
-- **System Development:** Building scalable systems and software solutions.
-- **Linux Operating Systems:** Practical experience with Linux environments, system commands, and Bash scripting.
-- **Web Development:** Focus on accessibility and responsive design using HTML, CSS, and JavaScript.
-- **Human-Computer Interaction:** Designing user-centered interfaces.
-- **Bioengineering Applications:** Leveraging insights into biological data and systems to drive innovation in healthcare IT and interdisciplinary solutions.
-
-I have also gained practical experience through hands-on projects and professional contributions. Learn more about my program: [OsloMet - Information Technology](https://www.oslomet.no/studier/tkd/informasjonsteknologi)
