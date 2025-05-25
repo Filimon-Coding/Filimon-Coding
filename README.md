@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Filimon Nuguse! 👋   
 🎓 **IT Student** |🎓 **Biomedical Engineer** |  💻 **Open Source Enthusiast** | 🌍 **Based in Oslo, Norway**
 
@@ -21,7 +19,6 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
     </tr>
   </table>
 </div>
----
 
 ---
 
@@ -72,7 +69,7 @@ Furthermore, my studies in **Bioengineering** have equipped me with unique inter
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Fun" width="400"/>
 </div>
----
+
 
 ## 📧 Contact Me
 - **LinkedIn:** [Filimon Nuguse](https://www.linkedin.com/in/filimon-nuguse-kaleab-089b62258/)
