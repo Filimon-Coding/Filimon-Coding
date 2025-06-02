@@ -5,7 +5,7 @@
 * Passion for tech that solves real-world problems
 * Focus on web dev, algorithms, Linux, and healthcare IT
 * Contributing to open source and learning daily
-* Background in both IT and bioengineering
+* Background in both IT and Bioengineering
 * Interested in tech-health solutions like medical data analysis and diagnostics
 
 ---
