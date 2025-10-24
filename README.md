@@ -1,6 +1,6 @@
 # Hi there, I'm Filimon Nuguse! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60"/>
 
-🎓 IT Student | 🎓 Biomedical Engineer | 💻 Open Source Fan | 🌍 Oslo, Norway
+🎓 IT Student | 🎓 Biomedical Engineer | Open Source Fan | Located: Oslo, Norway
 
 * Passion for tech that solves real-world problems
 * Focus on web dev, algorithms, Linux, and healthcare IT
@@ -9,7 +9,7 @@
 * Interested in tech-health solutions like medical data analysis and diagnostics
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Filimon-Coding&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
@@ -17,7 +17,7 @@
 </p>
 
 ---
-## 🚀 Skills and Tools
+## Skills and Tools
 
 <div align="center">
   <h3>🛠 Tools I've Used</h3>
@@ -35,7 +35,7 @@
 
 ---
 
-## 📧 Contact Me
+## Contact Me
 * **LinkedIn:** [Filimon Nuguse](https://www.linkedin.com/in/filimon-nuguse-kaleab-089b62258/)
 * **Email:** [filimon.nuguse20@gmail.com](mailto:filimon.nuguse20@gmail.com)
 
