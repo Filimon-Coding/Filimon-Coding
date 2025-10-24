@@ -20,7 +20,7 @@
 ## Skills and Tools
 
 <div align="center">
-  <h3>🛠 Tools I've Used</h3>
+  <h3> Tools I've Used</h3>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
